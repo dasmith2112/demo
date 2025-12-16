@@ -4,6 +4,7 @@
 #a basic comment can be added using the editor
 
 a = 1
+b = 5
 
 '''
 #standard check to make sure input is valid
