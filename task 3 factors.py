@@ -4,6 +4,7 @@
 #a basic comment can be added using the editor
 
 a = 1
+b = 7
 
 '''
 #standard check to make sure input is valid
@@ -86,6 +87,7 @@ for x in range(2, number): #loop through all possible numbers
     if(number % x == 0): #check to see if the current number is a factor
         print(x, "is a factor of", number) #if so print it out
 '''
+
 
 
 
